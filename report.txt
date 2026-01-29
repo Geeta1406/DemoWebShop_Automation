@@ -1,0 +1,8 @@
+2026-01-28 21:18:51 INFO  basepage.BaseTest - website is opened 
+2026-01-28 21:18:58 INFO  basepage.BaseTest - website is opened 
+2026-01-28 21:19:13 INFO  basepage.BaseTest - website is opened 
+2026-01-28 21:19:18 INFO  basepage.BaseTest - website is opened 
+2026-01-28 21:19:29 WARN  pages.ProductPage - Skipped: Add to Cart Not Available
+2026-01-28 21:19:31 INFO  pages.ProductPage - Added to cart successfully
+2026-01-28 21:19:35 INFO  basepage.BaseTest - website is opened 
+2026-01-28 21:19:37 INFO  pages.RegistrationPage - page is loaded
